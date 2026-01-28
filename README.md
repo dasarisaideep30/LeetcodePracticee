@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
