@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0093-restore-ip-addresses) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
