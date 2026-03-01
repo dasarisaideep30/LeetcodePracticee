@@ -1,5 +1,9 @@
 class Solution(object):
-    def permute(self,nums):
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
         result=[]
         used=[False]*len(nums)
         def backtrack(path):
