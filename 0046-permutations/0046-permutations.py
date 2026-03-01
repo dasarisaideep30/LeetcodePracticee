@@ -1,9 +1,9 @@
 class Solution(object):
     def permute(self,nums):
-        result=[]
-        used=[False]*len(nums)
+        result = []
+        used = [False]*len(nums)
         def backtrack(path):
-            if len(path)==len(nums):
+            if len(nums) == len(path):
                 result.append(path[:])
                 return
             for i in range(len(nums)):
