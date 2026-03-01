@@ -1,11 +1,7 @@
 class Solution(object):
-    def permute(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        result = []
-        used = [False]*len(nums)
+    def permute(self,nums):
+        result=[]
+        used=[False]*len(nums)
         def backtrack(path):
             if len(path)==len(nums):
                 result.append(path[:])
@@ -19,5 +15,4 @@ class Solution(object):
                 path.pop()
                 used[i]=False
         backtrack([])
-        return result
-                
+        return result 
