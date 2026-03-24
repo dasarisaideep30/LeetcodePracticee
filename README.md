@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -153,4 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
