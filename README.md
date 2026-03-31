@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0493-reverse-pairs) |
+| [0739-daily-temperatures](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
