@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/dasarisaideep30/https-github.com-dasarisaideep30-LeetcodePractice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
