@@ -4,7 +4,7 @@ class Solution {
         Stack<String> str = new Stack<>();
 
         int n = 0;
-        String res="";
+        String res = "";
 
         for(char c : s.toCharArray()){
             if(Character.isDigit(c)){
@@ -23,7 +23,7 @@ class Solution {
                 for(int i=0;i<k;i++){
                     t+=res;
                 }
-                res = temp + t;
+                res=temp+t;
             }
             else{
                 res+=c;
