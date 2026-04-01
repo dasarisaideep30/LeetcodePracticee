@@ -6,7 +6,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i=0;i<2*n;i++){
             while(!st.isEmpty() && nums[i%n]>nums[st.peek()]){
-                res[st.pop()] = nums[i%n];
+                res[st.pop()]=nums[i%n];
             }
             if(i<n){
                 st.push(i);
