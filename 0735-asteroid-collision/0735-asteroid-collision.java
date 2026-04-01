@@ -1,7 +1,7 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st = new Stack<>();
-        for(int x : asteroids){
+        for(int x:asteroids){
             while(!st.isEmpty() && x<0 && st.peek()>0){
                 if(st.peek()<-x){
                     st.pop();
