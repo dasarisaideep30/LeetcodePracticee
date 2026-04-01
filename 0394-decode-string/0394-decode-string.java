@@ -2,6 +2,7 @@ class Solution {
     public String decodeString(String s) {
         Stack<Integer> nums = new Stack<>();
         Stack<String> str = new Stack<>();
+
         int n = 0;
         String res = "";
 
@@ -22,7 +23,7 @@ class Solution {
                 for(int i=0;i<k;i++){
                     t+=res;
                 }
-                res = temp + t;
+                res=temp+t;
             }
             else{
                 res+=c;
