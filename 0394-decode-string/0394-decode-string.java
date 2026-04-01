@@ -2,11 +2,9 @@ class Solution {
     public String decodeString(String s) {
         Stack<Integer> nums = new Stack<>();
         Stack<String> str = new Stack<>();
-
-        int n = 0;
-        String res = "";
-
-        for(char c : s.toCharArray()){
+        int n=0;
+        String res="";
+        for( char c : s.toCharArray()){
             if(Character.isDigit(c)){
                 n=n*10+(c-'0');
             }
