@@ -19,8 +19,8 @@ class Solution {
             }
         }
         int[] res = new int[st.size()];
-        for(int i = st.size()-1;i>=0;i--){
-            res[i] = st.pop();
+        for(int i=st.size()-1;i>=0;i--){
+            res[i]=st.pop();
         }
         return res;
     }
