@@ -17,8 +17,8 @@ class Solution {
             ListNode b = cur.next.next;
             a.next=b.next;
             b.next=a;
-            cur.next=b;
-            cur=a;
+            cur.next = b;
+            cur = a;
         }
         return dummy.next;
     }
