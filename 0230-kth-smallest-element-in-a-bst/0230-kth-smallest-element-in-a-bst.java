@@ -21,13 +21,13 @@ class Solution {
         return ans;
     }
     void dfs(TreeNode r){
-        if( r==null ){
+        if(r==null){
             return;
         }
-        dfs( r.left );
-        if( --k == 0 ){
-            ans = r.val;
+        dfs(r.left);
+        if(--k==0){
+            ans=r.val;
         }
-        dfs( r.right );
+        dfs(r.right);
     }
 }
