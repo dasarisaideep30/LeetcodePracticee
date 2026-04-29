@@ -24,10 +24,10 @@ class Solution {
         if( r==null ){
             return;
         }
-        dfs(r.left);
-        if( --k==0 ){
+        dfs( r.left );
+        if( --k == 0 ){
             ans = r.val;
         }
-        dfs(r.right);
+        dfs( r.right );
     }
 }
