@@ -31,4 +31,15 @@ class Solution {
         prev=root.val;
         dfs(root.right);
     }
+    // void dfs(Node root){
+    //     if(root==null){
+    //         return;
+    //     }
+    //     dfs(root.left);
+    //     if(prev!=-1){
+    //         min = Math.min(min,root.data-prev);
+    //     }
+    //     prev=root.data;
+    //     dfs(root.right);
+    // }
 }
