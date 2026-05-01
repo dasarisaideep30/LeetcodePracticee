@@ -30,5 +30,6 @@ class Solution {
         }
         prev=root.val;
         dfs(root.right);
+
     }
 }
