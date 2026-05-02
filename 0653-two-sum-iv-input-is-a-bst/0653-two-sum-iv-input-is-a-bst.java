@@ -18,7 +18,7 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         return dfs(root,k);
     }
-    boolean dfs(TreeNode root, int k){
+    boolean dfs(TreeNode root,int k){
         if(root==null){
             return false;
         }
@@ -28,7 +28,7 @@ class Solution {
         set.add(root.val);
         return dfs(root.left,k) || dfs(root.right,k);
     }
-    // boolean dfs(Node root, int k){
+    // boolean dfs(Node root,int k){
     //     if(root==null){
     //         return false;
     //     }
