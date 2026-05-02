@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    int k, ans;
+    int k,ans;
     public int kthSmallest(TreeNode root, int k) {
-        this.k=k;
-        // k=k;
+        this.k = k;
+        // k = k;
         dfs(root);
         return ans;
     }
@@ -27,7 +27,7 @@ class Solution {
         }
         dfs(r.left);
         if(--k==0){
-            ans = r.val;
+            ans=r.val;
         }
         dfs(r.right);
     }
@@ -37,7 +37,7 @@ class Solution {
     //     }
     //     dfs(r.left);
     //     if(--k==0){
-    //         ans = r.data;
+    //         ans=r.data;
     //     }
     //     dfs(r.right);
     // }
