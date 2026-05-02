@@ -18,9 +18,15 @@ class Solution {
         if(root==null||root.val==val){
             return root;
         }
+        // if(root==null|| root.data==val){
+        //     return root;
+        // }
         if(val<root.val){
             return searchBST(root.left,val);
         }
+        // if(val<root.data){
+        //     return searchBST(root.left,val);
+        // }
         else{
             return searchBST(root.right,val);
         }
