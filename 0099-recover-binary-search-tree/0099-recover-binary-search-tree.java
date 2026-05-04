@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    TreeNode first = null, second = null, prev = null;
+    TreeNode first = null , second = null , prev = null;
     public void recoverTree(TreeNode root) {
         dfs(root);
         int t = first.val;
