@@ -28,7 +28,7 @@ class Solution {
         }
         dfs(r.left);
         if(--k==0){
-            ans = r.val;
+            ans=r.val;
         }
         // if(--k==0){
         //     ans=r.data;
