@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int k,ans;
+    int k, ans;
     public int kthSmallest(TreeNode root, int k) {
         this.k=k;
         // k=k;
@@ -28,7 +28,7 @@ class Solution {
         }
         dfs(r.left);
         if(--k==0){
-            ans=r.val;
+            ans = r.val;
         }
         // if(--k==0){
         //     ans=r.data;
