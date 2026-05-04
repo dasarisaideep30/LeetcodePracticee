@@ -28,18 +28,7 @@ class Solution {
         if(prev!=-1){
             min = Math.min(min,root.val-prev);
         }
-        prev=root.val;
+        prev = root.val;
         dfs(root.right);
     }
-    // void dfs(Node root){
-    //     if(root==null){
-    //         return;
-    //     }
-    //     dfs(root.left);
-    //     if(prev!=-1){
-    //         min = Math.min(min,root.data-prev);
-    //     }
-    //     prev=root.data;
-    //     dfs(root.right);
-    // }
 }
