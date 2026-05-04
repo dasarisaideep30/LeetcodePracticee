@@ -28,11 +28,11 @@ class Solution {
         dfs(r.left);
         if(prev!=null && r.val<prev.val){
             if(first==null){
-                first = prev;
+                first=prev;
             }
-            second = r;
+            second=r;
         }
-        prev = r;
+        prev=r;
         dfs(r.right);
     }
 }
