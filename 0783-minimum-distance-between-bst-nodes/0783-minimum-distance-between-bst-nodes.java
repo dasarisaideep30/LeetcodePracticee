@@ -33,7 +33,6 @@ class Solution {
         //     min = Math.min(min,root.data-prev);
         // }
         prev=root.val;
-        // prev=root.data;
         dfs(root.right);
     }
 }
