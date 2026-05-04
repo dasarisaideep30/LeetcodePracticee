@@ -28,7 +28,7 @@ class Solution {
         if(prev!=-1){
             min = Math.min(min,root.val-prev);
         }
-        prev = root.val;
+        prev=root.val;
         dfs(root.right);
     }
 }
