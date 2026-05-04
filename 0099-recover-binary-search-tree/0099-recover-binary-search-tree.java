@@ -25,7 +25,6 @@ class Solution {
         // second.data = t;
     }
     void dfs(TreeNode r){
-        // void dfs(Node r)
         if(r==null){
             return;
         }
@@ -36,12 +35,6 @@ class Solution {
             }
             second=r;
         }
-        // if(prev!=null && r.data<prev.data){
-        //     if(first==null){
-        //         first=prev;
-        //     }
-        //     second=r;
-        // }
         prev=r;
         dfs(r.right);
     }
