@@ -18,10 +18,14 @@ class Solution {
     public void recoverTree(TreeNode root) {
         dfs(root);
         int t = first.val;
+        // int t = first.data;
         first.val = second.val;
+        // first.data = second.data;
         second.val = t;
+        // second.data = t;
     }
     void dfs(TreeNode r){
+        // void dfs(Node r)
         if(r==null){
             return;
         }
@@ -32,6 +36,12 @@ class Solution {
             }
             second=r;
         }
+        // if(prev!=null && r.data<prev.data){
+        //     if(first==null){
+        //         first=prev;
+        //     }
+        //     second=r;
+        // }
         prev=r;
         dfs(r.right);
     }
