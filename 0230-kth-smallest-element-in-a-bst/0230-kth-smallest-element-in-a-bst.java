@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int k, ans;
+    int k,ans;
     public int kthSmallest(TreeNode root, int k) {
         this.k=k;
         // k=k;
