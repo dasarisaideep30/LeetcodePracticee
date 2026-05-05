@@ -21,7 +21,6 @@ class Solution {
         return min;
     }
     void dfs(TreeNode root){
-        // void dfs(Node root){}
         if(root==null){
             return;
         }
@@ -29,11 +28,7 @@ class Solution {
         if(prev!=-1){
             min = Math.min(min,root.val-prev);
         }
-        // if(prev!=-1){
-        //     min = Math.min(min,root.data-prev);
-        // }
-        prev = root.val;
-        // prev = root.data;
+        prev=root.val;
         dfs(root.right);
     }
 }
