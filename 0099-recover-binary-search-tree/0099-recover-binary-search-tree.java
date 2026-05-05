@@ -14,15 +14,12 @@
  * }
  */
 class Solution {
-    TreeNode first = null , second = null , prev = null;
+    TreeNode first = null, second = null, prev = null;
     public void recoverTree(TreeNode root) {
         dfs(root);
         int t = first.val;
-        // int t = first.data;
         first.val = second.val;
-        // first.data = second.data;
-        second.val = t;
-        // second.data = t;
+        second.val = t;     
     }
     void dfs(TreeNode r){
         if(r==null){
