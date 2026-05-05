@@ -15,10 +15,10 @@
  */
 class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
-        if(root==null || root.val==val){
+        if(root==null){
             return new TreeNode(val);
         }
-        // if(root==null || root.data==val){
+        // if(root==null){
         //     return new Node(val);
         // }
         if(val<root.val){
